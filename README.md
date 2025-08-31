@@ -1,2 +1,2 @@
-# daily-text-sta
-Python script to scan text/code files and produce a JSON stats report.
+Hello world!
+This is my first GitHub daily activity.
