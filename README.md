@@ -1,2 +1,2 @@
 Hello world!
-This is my first GitHub daily activity.
+This is my first GitHub daily activit.
